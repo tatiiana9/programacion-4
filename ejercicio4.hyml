@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 4</title>
+</head>
+
+<body>
+    <h1>El Noticiero Next University</h1>
+
+    <h2>Programas de Tecnologia</h2>
+
+    <h3>Desarrollador Web</h3>
+
+    <p><b><i>Next University</i></b> lanza su programa de formacion "<b>Desarrollador Web</b>" con la finalidad de
+        capacitar a
+        personas en las tendencias actuales sobre tecnologias, en el caso de desarrollo web, se basa temas relacionados
+        a la
+        implementacion de Front-End con Tecnologias y Frameworks, tales como: <i>HTML5, CSS, JavaScript, Boostrap, entre
+            otros.</i></p>
+
+    <h3>Android</h3>
+
+    <p>En<b><i> Next University</b> </i> te ofrecemos el programa <b>Android</b> que te las herramienta necesarias para
+        diseñar para diseñar e implementar
+        aplicaciones Android para dispositivos móviles, partiendo de un conocimiento básico de <i>Java</i>, utilizando
+        el entorno de desarrollo
+        <i>Android Studio</i>. Aprenderas los aspectos fundamentales para crear aplicaciones Android interactivas,
+        dinámicas y exitosas utilizando
+        utilizando tecnicas para el manejo de los recursos, datos, segundos planos, localizaciones, sensores,
+        animaciones, gráficos,
+        multimedia y monetización.
+    </p>
+
+
+    <h2>Programacion de Negocio</h2>
+
+    <h3>Mercadeo Digital</h3>
+
+    <p><b><i>Next University</i></b> coloca a tu disposición de programa de "<b>Mercadeo Digital</b>". Sabias que ...
+        Mercadeo Digital o Digital
+        Digital Marketing es mucho mas que hacer y publicar anuncios. Se trata del consumidor y la estrategia de
+        negocio. Estos son los puntos de partida
+        para cualquier acción de mercadeo digital <i>sea exitosa y optimice la inversion</i>. Este certificado, es un
+        programa completo y
+        practico, que permite entender al consumidor, la industria, la competencia y los retos del negocio propio; para
+        crear e implementar
+        estrategias a la medidas, en diferentes plataformas y medios digitales. Por supuesto, monitoreando los
+        resultados para tomar
+        desiciones en tiempo real.</p>
+
+</body>
+
+</html>
